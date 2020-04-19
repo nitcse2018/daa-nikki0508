@@ -1,0 +1,8 @@
+First Name:  :  nikita
+Phone Number:  :  1234567890
+Email:  :  n@gmail.com
+Address:  :  xyz
+Proficiency:  :  abc,bcd
+Education   :  qwe, wrw
+Achievements:  :  123,hnk
+Consideration:  :  poiuy
