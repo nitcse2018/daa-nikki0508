@@ -1,8 +1,33 @@
-First Name:  :  nikita
-Phone Number:  :  1234567890
-Email:  :  n@gmail.com
-Address:  :  xyz
-Proficiency:  :  abc,bcd
-Education   :  qwe, wrw
-Achievements:  :  123,hnk
-Consideration:  :  poiuy
+
+ 	--------------------------RESUME--------------------------
+ 	First Name:  :  nikita
+ 	Last Name:  :  uikey
+ 	Phone Number:  :  123456789
+ 	Email:  :  n@gmail.com
+ 	D.O.B : 05 - August - 2000
+ 	Address:  :  xyz
+ 	School Name:  :  K.V AAI Rangpuri
+ 	Grade:  :  A+
+ 	Grade:  :  2018
+ 	College Name:  :  NIT Delhi
+ 	CGPA:  :  123
+ 	Passing year:  :  2020
+ 	Branch:  :  CSE
+ 	Organization Name-1 :  AbC Company LTD
+	Designation  :  HR
+ 	Work Experience  From :  1970 To :1973
+ 	Organization Name-2 :  XYZ
+ 	Designation  :  Dipty Manager
+ 	Work Experience  From :  1976 To :1977
+ 	Organization Name-3 :  Alpha
+ 	Designation  :  Manager
+ 	Work Experience  From :  1993 To :1995
+ 	Organization Name-4 :  Microsoft Office
+ 	Designation  :  HR
+ 	Work Experience  From :  2012 To :2010
+ 	Languages-1 :  English
+ 	Languages-2 :  Hindi
+	Languages-3 :  Marathi
+ 	Languages-4 :  Punjabi
+ 	Sports-1 :  kabaddi
+ 	Sports-2 :  yoga
